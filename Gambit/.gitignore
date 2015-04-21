@@ -20,3 +20,5 @@
 
 # ignore metada files
 .metadata
+/bin/
+/bin/
