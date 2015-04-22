@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>macosx</name>
-			<type>2</type>
-			<location>/Users/Pk/git/project01_team02/lib/natives/macosx</location>
-		</link>
-	</linkedResources>
 </projectDescription>
