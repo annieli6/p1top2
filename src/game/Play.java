@@ -1,4 +1,4 @@
-package javajame;
+package game;
 import javax.management.timer.Timer;
 
 import org.lwjgl.input.Mouse;

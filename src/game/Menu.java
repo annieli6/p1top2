@@ -1,13 +1,12 @@
-package javajame;
+package game;
 import org.lwjgl.input.Mouse;
 import org.newdawn.slick.*;
 import org.newdawn.slick.state.*;
 
 public class Menu extends BasicGameState{
 	Image menu, playButton, exitButton;
-	//public String mouse = "No Input yet..";
-	public Menu(int State){
-		
+	public Menu(int State)
+	{
 	}
 	public void init(GameContainer gc, StateBasedGame sbg)
 			throws SlickException{
@@ -49,4 +48,10 @@ public class Menu extends BasicGameState{
 	public int getID(){
 		return 0;
 	}	
+	
+	
+	
+	
+	
+	
 }
